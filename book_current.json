@@ -1,0 +1,19 @@
+{
+  "title": "瓦良格号航母来中国",
+  "description": "整理瓦格良号航母的前世今生，尤其是购买前后以及如何经历万千困难和阻挠回到中国的过程。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "varyag_aircraft_carrier_come_china"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/varyag_aircraft_carrier_come_china/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/varyag_aircraft_carrier_come_china/pdf/varyag_aircraft_carrier_come_china.pdf"
+    }
+  }
+}
