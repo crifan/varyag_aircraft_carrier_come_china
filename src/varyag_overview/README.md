@@ -53,7 +53,7 @@
       * （已故将军的）航母梦
         * 刘华清生前对国家应当建造航母的两次论证，把“瓦良格”、“辽宁舰”的出现，推到了一个战略的位置上
         * 之前去美国参观航母
-          * ![liuhuaqing_visit_us_aircraft_carrier](../assets/img/liuhuaqing_visit_us_aircraft_carrier.webp)
+          * ![liuhuaqing_visit_us_aircraft_carrier](../assets/img/liuhuaqing_visit_us_aircraft_carrier.jpg)
     * 副司令员：贺鹏飞
       * 注：贺龙之子
       * 瓦良格来中国的直接推手
