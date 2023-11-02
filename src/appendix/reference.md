@@ -34,6 +34,8 @@
 * ["瓦良格"号航母来中国——附录三](http://mp.weixin.qq.com/s?__biz=MzI2MjQ3MTM5OA==&mid=2247483861&idx=1&sn=76c8564f05ae6620fcbc5ceecbb9e3a2)
 * ["瓦良格"号航母来中国——附录四](http://mp.weixin.qq.com/s?__biz=MzI2MjQ3MTM5OA==&mid=2247483885&idx=1&sn=976322a15399ae3cc083d32b8d4fb2c1)
 * ["瓦良格"号航母来中国——附录五（1）](http://mp.weixin.qq.com/s?__biz=MzI2MjQ3MTM5OA==&mid=2247483889&idx=1&sn=0903599a482a009dfbc9c328e67e36e1)
+* ["瓦良格”号航母来中国－－附录五（2）](https://mp.weixin.qq.com/s/TrBvfAXnpi23gJvvukAY7w)
+* [″瓦良格”号航母来中国－－附录五（2）](https://weibo.com/ttarticle/p/show?id=2309634783413499396455)
 * [“瓦良格”号航母来中国【上部】-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/8-1.html)
 * [“瓦良格”号航母来中国【上部】-第2页-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/8-2.html)
 * [“瓦良格”号航母来中国【上部】-第3页-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/8-3.html)
