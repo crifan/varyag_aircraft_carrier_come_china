@@ -61,4 +61,12 @@
 * [附录五 “瓦良格”项目大事记 《＂瓦良格”号航母来中国》-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/23.html)
 * [附录五 “瓦良格”项目大事记 《＂瓦良格”号航母来中国》(6)-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/23_6.html)
 * [后记 《＂瓦良格”号航母来中国》-听雪斋书馆](https://www.5hmb.com/a/_waliangge_haohangmulaizhongguo____zhongguohangm/24.html)
+* [瓦良格号对中国航母的作用有多大？ - 林伯廷Tim的回答 - 知乎](https://www.zhihu.com/question/57984825/answer/2596543535)
+* [中国当初以什么名义买的瓦良格号？ - 我不是盐神 (onehu.xyz)](https://onehu.xyz/2023/01/08/%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%88%9D%E4%BB%A5%E4%BB%80%E4%B9%88%E5%90%8D%E4%B9%89%E4%B9%B0%E7%9A%84%E7%93%A6%E8%89%AF%E6%A0%BC%E5%8F%B7%EF%BC%9F)
+* [出乌克兰记](https://mp.weixin.qq.com/s/Pk4oE06ougrKfMyh_eLxCQ)
+* [原中国驻土大使揭秘：“瓦良格”号通过土耳其海峡始末|军舰_网易订阅 (163.com)](https://www.163.com/dy/article/HKMOAP2U0553E0E0.html)
+* [中国引进瓦良格号内幕：将图纸藏在舰底偷运回国|中国|航母|瓦良格_新浪军事 (sina.com.cn)](http://mil.news.sina.com.cn/2013-09-04/1443738843.html)
+* [中国引进瓦良格号内幕：对家人都不敢说具体任务|中国|航母|瓦良格_新浪军事 (sina.com.cn)](http://mil.news.sina.com.cn/2013-09-04/1443738843_2.html)
+* [当初希腊愿意让“瓦良格”到达中国的原因是什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/457188429)
+* [当初希腊愿意让“瓦良格”到达中国的原因是什么？ - 知乎用户eQybeI的回答 - 知乎](https://www.zhihu.com/question/457188429/answer/2307802835)
 * 

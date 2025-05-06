@@ -1,9 +1,15 @@
 # 瓦良格号航母来中国
 
 * [前言](README.md)
-* [瓦格良号航母概览](varyag_overview/README.md)
+* [瓦良格号航母概览](varyag_overview/README.md)
 * [瓦良格号航母来中国](varyag_come_china/README.md)
   * [典型故事](typical_story/README.md)
+    * [瓦良格号对中国航母的作用有多大？](typical_story/how_significant_varyag_to_china.md)
+    * [“瓦良格”号通过土耳其海峡始末](typical_story/varyag_passage_turkish_straits.md)
+    * [出乌克兰记](typical_story/notes_leaving_ukraine.md)
+    * [中国引进瓦良格号内幕](typical_story/import_varyag_inside.md)
+    * [瓦良格号到达中国的曲折历程](typical_story/tortuous_journey_varyag_to_china.md)
+    * [世界上最慢的船之一](typical_story/most_slow_sheep.md)
   * [纪实文学报告](non_fiction_report/README.md)
     * [序](non_fiction_report/preface.md)
     * [第一章 错失良机](non_fiction_report/missed_opportunities.md)
