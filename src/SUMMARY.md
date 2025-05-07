@@ -2,6 +2,8 @@
 
 * [前言](README.md)
 * [瓦良格号航母概览](varyag_overview/README.md)
+  * [大事记](varyag_overview/milestone.md)
+  * [相关人物](varyag_overview/related_people.md)
 * [瓦良格号航母来中国](varyag_come_china/README.md)
   * [典型故事](typical_story/README.md)
     * [瓦良格号对中国航母的作用有多大？](typical_story/how_significant_varyag_to_china.md)
@@ -30,7 +32,7 @@
     * [附录](non_fiction_report/appendix/README.md)
       * [附录一：本书正文中涉及的有关文件](non_fiction_report/appendix/note1_related_file.md)
       * [附录二：纠正媒体在“瓦良格”报道中的错误](non_fiction_report/appendix/note2_correct_error.md)
-      * [附录三：成“瓦良格”号航母来中国的一些重要人物](non_fiction_report/appendix/note3_important_person.md)
+      * [附录三：“瓦良格”号航母来中国的一些重要人物](non_fiction_report/appendix/note3_important_person.md)
       * [附录四：关于购买“瓦良格”号航母图纸的真相](non_fiction_report/appendix/note4_paper_truth.md)
       * [附录五：“瓦良格”项目大事记](non_fiction_report/appendix/note5_milestone_timeline.md)
     * [后记](non_fiction_report/postscript/README.md)

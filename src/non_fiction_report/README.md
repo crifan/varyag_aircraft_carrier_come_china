@@ -5,7 +5,7 @@
 * 长篇报告文学
   * “瓦良格”号航母来中国
     * 中国航母“辽宁舰”前世真相调查
-  * 作者：李忠效
+  * 作者：**李忠效**
 
 ![non_fiction_report_varyag](../assets/img/non_fiction_report_varyag.jpg)
 
@@ -15,7 +15,7 @@
 
 ![lizhongxiao_intro](../assets/img/lizhongxiao_intro.jpg)
 
-李忠效，笔名：钟笑。
+**李忠效**，笔名：**钟笑**。
 
 海军政治部创作室一级作家，中国作家协会会员，中国报告文学学会理事。
 
